@@ -10,3 +10,5 @@ spring:
     user: postgres
     password: 1234
     schemas: user_service
+server:
+  port: 8082
